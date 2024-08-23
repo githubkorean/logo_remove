@@ -1,6 +1,0 @@
-TheCallistoProtocol\TheCallistoProtocol\Content\Movies\Bink_Krafton_SDS_Logos.bk2
-TheCallistoProtocol\TheCallistoProtocol\Content\Movies\Krafton_SDS_logos_4k.bk2
-TheCallistoProtocol\TheCallistoProtocol\Content\Movies\Unreal_InstaLOD_logos.bk2
-TheCallistoProtocol\TheCallistoProtocol\Content\Movies\Unreal_Logo_4K.bk2
-TheCallistoProtocol\TheCallistoProtocol\Content\Movies\Wwise_InstaLOD_Logos_4K.bk2
-TheCallistoProtocol\TheCallistoProtocol\Content\Movies\AMD_Logo_4K.bk2
